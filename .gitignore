@@ -1,0 +1,9 @@
+# PlatformIO build output
+.pio/
+
+# VS Code (machine-specific)
+.vscode/
+
+# Vendored LilyGo Arduino_GFX fork: keep src/ (needed to build), skip its demos (~20 MB)
+lib/Arduino_GFX/examples/
+lib/Arduino_GFX/more_examples/
